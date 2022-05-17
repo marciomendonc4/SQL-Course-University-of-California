@@ -2,16 +2,16 @@
 ## This is a 4 week course, provided by the University of California
 <ul>
     <li>
-        <a href="" target="_blank"></a>
+        <a href="https://drive.google.com/file/d/1ZRic9jHYCpTJml45M7j2KZ-JwcpzPyY1/view?usp=sharing" target="_blank">SQL for Data Science</a>
     </li>
     <li>
-        <a href="" target="_blank"></a>
+        <a href="https://drive.google.com/file/d/1yiZ-3_iaFZ5XEPhbQoy0frOu8zBPLs6n/view?usp=sharing" target="_blank">Data Wrangling, Analysis and AB Testing with SQL</a>
     </li>
     <li>
-        <a href="" target="_blank"></a>
+        <a href="https://drive.google.com/file/d/1gxqmwSbdF24mg7IA2UW9Q3K3sIqdns04/view?usp=sharing" target="_blank">Distributed Computing with Spark SQL</a>
     </li>
     <li>
-        <a href="" target="_blank"></a>
+        <a href="#" target="_blank">SQL for Data Science Capstone Project</a>
     </li>
 </ul>
 
