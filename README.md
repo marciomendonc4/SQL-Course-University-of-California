@@ -1,4 +1,4 @@
-# SQL-Course-University-of-California
+# SQL Course - University of California
 ## This is a 4 week course, provided by the University of California
 <ul>
     <li>
