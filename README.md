@@ -39,7 +39,7 @@
 #
 #### PT BR
 
-# Curso de SQL - Universiade da Califórnia (UC DAVIS)
+# Curso de SQL - Universidade da Califórnia (UC DAVIS)
 ## Este é um curso dividido em 4 módulos, oferecido pela UC Davis.
 
 *Sinta-se livre para confirmar a validade dos meus certificados em meu perfil do [linkedin](https://www.linkedin.com/in/marcio-mendon%C3%A7a-8790b523b/)*
