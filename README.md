@@ -3,7 +3,7 @@
 # SQL Course - University of California
 ## This is a 4 modules course, provided by the University of California.
 
- *Feel free to confirm the validation of my certificates at my [linkedin](https://www.linkedin.com/in/marcio-mendon%C3%A7a-8790b523b/) profile.*
+ *Please, feel free to confirm the validity of my certificates at my [linkedin](https://www.linkedin.com/in/marcio-mendon%C3%A7a-8790b523b/) profile.*
 ### Certificate Links:
 <ul>
     <li>
