@@ -3,6 +3,7 @@
 # SQL Course - University of California
 ## This is a 4 modules course, provided by the University of California.
 
+ *Feel free to confirm the validation of my certificates at my [linkedin](https://www.linkedin.com/in/marcio-mendon%C3%A7a-8790b523b/) profile.*
 ### Certificate Links:
 <ul>
     <li>
@@ -41,6 +42,7 @@
 # Curso de SQL - Universiade da Califórnia (UC DAVIS)
 ## Este é um curso dividido em 4 módulos, oferecido pela UC Davis.
 
+*Sinta-se livre para confirmar a validade dos meus certificados em meu perfil do [linkedin](https://www.linkedin.com/in/marcio-mendon%C3%A7a-8790b523b/)*
 ### Links para os certificados:
 <ul>
     <li>
